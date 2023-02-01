@@ -1,7 +1,8 @@
 ---
 layout: default
-title: "Arduino"
-permalink: /arduino
+title: "Pill Dispenser"
+permalink: /pilldispenser
 nav: true
----
-This is the Arduino page
+--
+#Concept
+This pill dispenser is an original design
