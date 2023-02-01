@@ -7,7 +7,7 @@ nav: true
 # About
 
 ## Project Overview
-Our goal is to design a Medical Inventory System that can keep track of medical suplies on current and future NASA space missions.  This system is designed to be automated and foolproof, making it easy for the astronouts to keep track of piils, creams, and 
+Our goal is to design a Medical Inventory System that can keep track of medical suplies on current and future NASA space missions.  This system is designed to be automated and foolproof, making it easy for the astronouts to keep track of piils, creams and such.  The way we do this is quite simple on face value but there are quite a few moving parts for it all to work in sync.  First there is an inventory system running on a computer that has the database of all the medical items stored on it, then if an astronaut needs a medical supply, they get the device holding the one they need, and whatever they dispence gets sent directly into the inventory database.  See "Pill Dispenser for a more detailed explanation of the system.
 
 
 ## Project Members
