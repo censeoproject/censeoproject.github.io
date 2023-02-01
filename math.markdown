@@ -6,7 +6,7 @@ nav: true
 ---
 # Calculating Medical Cream
 ## Problem:
-Measuring quantities of cream in a low-gravity environment can be quite difficult. Obviously, you could keep track of them by the bottle, but what if you wanted a more precise measurement?
+In a low-gravity environment, it is difficult to measure medical creams since they cannot be weighed.
 ## Solution:
 Calculate the volume of cream dispensed as a squeezer moves along the bottle.
 # The Math Behind This
@@ -19,7 +19,7 @@ REPLACE WITH IMAGE: TUBE EQUATION
 <br />Here is the graph of this equation after it has been solved for z, and arbitrary values have been entered for W, R, and L. As you can see, it clearly resembles a tube of toothpaste:
 REPLACE WITH IMAGE: GRAPH
 ## Calculating the Volume of the Solid
-To get the volume of the solid, we use a triple integral. After setting the integrand to 1 and the limits of integration to the appropriate equations/values, we are left with the following equation:
+To get the volume of the solid, we use a triple integral. The limits of integration are determined by observing the cross-sections of the x, y, and z planes. After setting the integrand to 1 and the limits of integration to the appropriate equations/values, we are left with the following equation:
 REPLACE WITH IMAGE: TRIPLE INTEGRAL
 ## Implementation
 To use this equation to calculate the volume of medical cream dispensed, we will first calculate the volume of the full bottle. We will then update the equation to account for a shortened length as the squeezer moves along the bottle. This second calculation will return the volume of cream remaining (at least in that bottle), and the difference in the two calculations will return the volume of cream dispensed.
