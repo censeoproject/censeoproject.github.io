@@ -4,16 +4,15 @@ title: About
 permalink: /about/
 nav: true
 ---
+# About
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## Project Overview
+This is an overview sentence.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+## Project Members
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+### Braden Lamb
+![Braden](/images/Braden%20headshot.jpg)This is braden's bio.
+stuff
+### Keenan Amerson
+![Braden](/images/Braden%20headshot.jpg) This is Keenan's bio.
