@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Index"
-permalink: /index
+title: Index
+permalink: /index/
 nav: true
 ---
 #Concept
