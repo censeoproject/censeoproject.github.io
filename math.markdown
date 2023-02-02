@@ -8,7 +8,7 @@ nav: true
 ## Problem:
 In a low-gravity environment, it is difficult to measure medical creams since they cannot be weighed.
 ## Solution:
-Calculate the volume of cream dispensed as a squeezer moves along the bottle.
+We decided to calculate the volume of cream dispensed as a squeezer moves along the bottle.
 # Measuring the Squeezer's Movement
 In order to dispense medical creams in a consistent manner, we will make use of a toothpaste squeezer and measure how far it has travelled along a tube. To get this measurement, we will use a color sensor connected to an Arduino Nano. We will place a multi-colored strip of paper or other material on the tube and attach the color sensor unit to the squeezer. As the squeezer is pushed, the color sensor will detect different colors beneath it, telling it how far it has moved.
 image: squeezer
