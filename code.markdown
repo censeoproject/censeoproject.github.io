@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Coding"
-permalink: /coding
+title: "Main System"
+permalink: /main
 nav: true
 ---
-#
+#Coding the Inventory System
