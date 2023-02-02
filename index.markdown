@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Pill Dispenser"
-permalink: /pilldispenser
+title: "Index"
+permalink: /index
 nav: true
 ---
 #Concept
