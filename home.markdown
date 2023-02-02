@@ -1,10 +1,10 @@
 ---
 layout: default
-title: About us
+title: About Us
 permalink: /aboutus
 nav: true
 ---
-# About
+# About Us:
 
 Braden Lamb             |  
 :-------------------------:|:-------------------------:
