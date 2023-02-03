@@ -5,16 +5,22 @@ permalink: /main
 nav: true
 ---
 # Coding the Inventory System
-## Basics:
+
+## Basics
+
 Our main inventory system is primarily written in Python and consists of 660 lines of code in the main file alone. The entire system consists of well over 1000 lines of code. The data is stored in a JSON file where it can be accessed and updated with ease. The system is designed to support automatic data transmission, as is demonstrated in our pill dispenser prototype.
-## System Capabilities:
+
+## System Capabilities
+
 *	Different medical supplies can be added or removed from the database
 *	The supplies' quantities, names, dates, etc. can be adjusted
 * A list of all supplies can be provided and sorted by either date or category
 *	Previous updates to the inventory are stored in user reports
 *	Each user is provided with a user ID which will be used to track which person made which update to the inventory system.
 *	The system can receive automatic updates from unique devices using UDP data transfer
-## Stored Data:
+
+## Stored Data
+
 * The name and ID number of each supply
 * The quantity of each supply
 * The category of each supply (pill, cream, etc.)
