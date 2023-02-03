@@ -28,4 +28,4 @@ Our main inventory system is primarily written in Python and consists of 660 lin
 * Multiple user IDs
 * User reports after each change
 ## User Reports:
-To keep a log of previous transactions, we use a user report system. Each report tells you the specifics of a change made to the inventory system. These include the user ID of the 
+To keep a log of previous interactions with the database, we use a user report system. Each report contains the details of a change made to the inventory system. These include the user ID of who made the change, the time at which they made the change, which supply was updated, and what changed about that supply.
