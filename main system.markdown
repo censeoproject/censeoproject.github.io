@@ -27,5 +27,5 @@ Our main inventory system is primarily written in Python and consists of 660 lin
 * The time at which the supply was first added to the inventory
 * Multiple user IDs
 * User reports after each change
-## User Reports:
+## <br />User Reports:
 To keep a log of previous interactions with the database, we use a user report system. Each report contains the details of a change made to the inventory system. These include the user ID of who made the change, the time at which they made the change, which supply was updated, and what changed about that supply.
