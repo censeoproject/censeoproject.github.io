@@ -13,4 +13,4 @@ This system is designed to be easy to learn and use.  It is quick compact and re
 
 ## Project Videos
 
-[![Everything Is AWESOME](images/awesome.png)](https://youtu.be/StTqXEQ2l-Y?t=37s "Everything Is AWESOME")
+"A demo video should be here shortly"
