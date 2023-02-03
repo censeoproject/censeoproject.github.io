@@ -11,6 +11,6 @@ This system is designed to be easy to learn and use.  It is quick compact and re
 
 ![home](images/table.png)
 
-[//]: # (## Project Videos)
+[//]: # "## Project Videos"
 
-[//]: # ([![Everything Is AWESOME](images/awesome.png)](https://youtu.be/StTqXEQ2l-Y?t=37s "Everything Is AWESOME"))
+[//]: # "[![Everything Is AWESOME](images/awesome.png)](https://youtu.be/StTqXEQ2l-Y?t=37s "Everything Is AWESOME")"
