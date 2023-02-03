@@ -28,4 +28,4 @@ The sections below shows all the required components to build this project from 
 * Green led
 * Push button
 * Pair of [Adafruit Beam Break sensors](https://www.amazon.com/Adafruit-Accessories-Break-Beam-Sensor/dp/B01BU6YBWU/ref=sr_1_1?crid=1BQOYZA1HRQDP&keywords=Adafruit+break+beam+sensors&qid=1675406111&sprefix=adafruit+break+beam+sensor%2Caps%2C234&sr=8-1)
-* [Cad skematic for how to wire up the arduino](/images/Pill%20dispenser%20skematic.png)
+* [Cad skematic for how to wire up the arduino](https://www.tinkercad.com/things/dC4nxWD9iTN)
