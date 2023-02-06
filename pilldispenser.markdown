@@ -5,7 +5,7 @@ permalink: /pilldispenser
 nav: true
 ---
 ## Problem:
-It is inneficient to manually track the number of pills on the space station.
+It is inefficient to manually track the number of pills on the space station.
 ## Solution:
 We designed and built a device that both dispenses and automaticlly tracks of the number of pills used.
 
