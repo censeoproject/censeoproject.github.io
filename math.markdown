@@ -10,9 +10,8 @@ In a low-gravity environment, it is difficult to measure medical creams since th
 ## Solution:
 We decided to calculate the volume of cream dispensed as a squeezer moves along the bottle.
 # Measuring the Squeezer's Movement
-In order to dispense medical creams in a consistent manner, we will make use of a toothpaste squeezer and measure how far it has travelled along a tube. To get this measurement, we will use a color sensor connected to an Arduino Nano. We will place a multi-colored strip of paper or other material on the tube and attach the color sensor unit to the squeezer. As the squeezer is pushed, the color sensor will detect different colors beneath it, telling it how far it has moved.
-image: squeezer
-image: color sensor
+To improve consistency and predictability, we use a squeezer to dispense the medical creams. To measure how far it has travelled along the tube, we use a color sensor that detects movement along a multi-colored strip of paper. The sensor is attached to the squeezer so that they move together. The colored strip is comprised of three distinct colors: red, green, and yellow. After careful testing, we determined that these colors were the easiest for the sensor to distinguish between. Because we designed the strip with three different colors as opposed to just two, we were able to program the color sensor to tell which direction it has moved. Thanks to this method, the device is able to store its furthest position along the tube and only update the system when it passes that point.
+image: squeezer + sensor
 # The Math Behind This
 ## Deriving a Formula for the Geometric Solid
 The first step is to represent a tube of medical cream as a three-dimensional geometric solid. At one end, the bottle is a circle. At the other end, it is a flat line. This lead us to discover that a bottle of cream is essentially an ellipse whose height and width shift over the z-axis. The equation for an ellipse is shown below. The width and height of this ellipse are ra and rb, respectively:
