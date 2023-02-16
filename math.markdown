@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Math"
-permalink: /math
+title: "Measuring Creams"
+permalink: /cream
 nav: true
 ---
 # Calculating Volumes of Medical Cream
