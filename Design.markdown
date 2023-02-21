@@ -38,4 +38,19 @@ The sections below shows all the required components to build this project from 
 
 <br />
 ## Cream Measurer Hardware
-* [Arduino Uno]
+* [Tube Squeezer](https://www.amazon.com/kiniza-Toothpaste-Squeezer-Dispenser-Cleanser/dp/B08PV98F8F/ref=sr_1_19?crid=Y8BOA4ZBBK6&keywords=toothpaste+squeezer&qid=1677019699&sprefix=toothpaste+squeezer%2Caps%2C148&sr=8-19)
+* Nuts and bolts or a similar attachment method
+* [Colored Strip](https://docs.google.com/document/d/16iG8eZU1BECOHrW34bTYmgXb7a_aDs8QvgSf5LyQ1M8/edit?usp=sharing)
+* 3D Printed Piece
+<br />
+### Necessary Arduino Components
+* [Arduino Uno](https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/ref=sr_1_3?crid=14HG0Z8P2F0MC&keywords=arduino%2Buno&qid=1677020026&sprefix=arduino%2Buno%2Caps%2C163&sr=8-3&th=1)
+* TCS 34725 Color Sensor
+* Bread Board
+* 4x male-to-female jumper wires
+<br />
+### Optional Arduino Components
+* Common Cathode RGB LED light
+* 4x jumper wire
+* 560 ohm resistor
+* 2x 1000 ohm resistor
