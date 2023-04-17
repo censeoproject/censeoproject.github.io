@@ -24,7 +24,7 @@ There was no holder online that would hold the the beam break sensors held in pl
 Using a platform called Freecad, we designed from scratch a way to hold all the peices together.
 
 We used a digital caliper to determine how to fit the beam break sensors snug without having to be fasened down.  It took us a few designs before it would work.
-![First Dispenser Design](/images/first%20despenser%20design%20(small).png)
+<br />![First Dispenser Design](/images/first%20despenser%20design%20(small).png)
 <br />This design was nice and compact but with the beam break sensors this close, the beam would reflect around the pill.  So we had to pull the sensors apart, and when we did, the beam was weak enough where when the pill passed by, it would detect that there was something in the way, and then send a message to the database.
 
 This was our final design:
