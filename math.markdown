@@ -4,7 +4,7 @@ title: "Measuring Creams"
 permalink: /cream
 nav: true
 ---
-# Calculating Volumes of Medical Cream
+# Tracking Medical Creams
 ## Problem:
 In a low-gravity environment, it is difficult to measure medical creams since they cannot be weighed.
 ## Solution:
