@@ -1,7 +1,9 @@
 ---
 layout: default
 ---
-# NASA Hunch Project: Censeo Medical Inventory System
+# NASA Hunch Project:
+<br />
+# Censeo Medical Inventory System
 
 ## Project Goal
 
