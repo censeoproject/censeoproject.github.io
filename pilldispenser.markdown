@@ -14,8 +14,7 @@ This device combines an airsoft speed loader and original 3D printed parts to di
 ![Pill Dispenser Image](/images/Pill%20Dispenser%20image.jpeg)
 <br />A refill button makes it incredibly easy to automatically record refills of a standard size. Additionally whenever the number of pills decreases to a set amount, a red warning light turns on. The astronauts will have packages of a set amount of pills, so when the warning light comes on, they can take the standard refill size of pills and refill the dispenser. Non-standard refill sizes can of course be easily recorded manually in the database.
 
-This pill dispenser is an original design that we 3D printed to hold the break beam sensors and an airsoft speed loader so that when the 
-pill was dispensed
+This pill dispenser uses an original design that we 3D printed to hold the break beam sensors and an airsoft speed loader to track when the pill was dispensed.
 
 # 3D Printing
 ## The Problem:
@@ -30,5 +29,3 @@ We used a digital caliper to determine how to fit the beam break sensors snug wi
 This was our final design:
 ![CAD design](images/CAD%20drawing%20%231.png)
 <br />This design worked the best out of all the designs, and the sensor detects the pill being dropped out of the dispenser 100% of the time.
-
-Here is the link to download the stl fil to load directly into a 3D printer software: [Cad file for break beam sensor holder](/images/Break%20Beam%20holder%20%233.stl)
