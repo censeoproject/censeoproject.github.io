@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Measuring Bandages"
+title: "Bandage Measurer"
 permalink: /bandagemeasurer
 nav: true
 ---
