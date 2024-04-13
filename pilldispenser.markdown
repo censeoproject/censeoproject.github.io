@@ -5,13 +5,13 @@ permalink: /pilldispenser
 nav: true
 ---
 ## Problem:
-It is inefficient to manually track the number of pills on the space station.
+It is inefficient to manually track the number of pills on the space station, and there is  no way to tell if someone is taking more pills than they should.
 ## Solution:
 We designed and built a device that both dispenses and automaticlly tracks of the number of pills used.
 
 ### Design
-This device combines an airsoft speed loader and original 3D printed parts to dispense pills one at a time. As they leave the holder, they trigger a break beam sensor connected to an Arduino Nano. This then sends a message to the inventory system and updates the quantity of pills accordingly. This can all be done completely wirelessly and without manual input.
-![Pill Dispenser Image](/images/Pill%20Dispenser%20image.jpeg)
+This device utilizes a gear with pill sized slots to dispense the pills as the astronaut turns the gear.  In order for it to work in low gravity, we are using a spring to push a 3d printed piece on top of the piils.  As the pills exit the device, they trigger a break beam sensor connected to an Arduino Nano which in turn sends a message to the inventory system and updates the quantity of pills accordingly. This can all be done completely wirelessly and without manual input into a database.
+![Pill Dispenser Image]("C:\Users\kmamk\OneDrive\Pictures\Screenshots\Screenshot 2023-09-12 161718.png")
 <br />A refill button makes it incredibly easy to automatically record refills of a standard size. Additionally whenever the number of pills decreases to a set amount, a red warning light turns on. The astronauts will have packages of a set amount of pills, so when the warning light comes on, they can take the standard refill size of pills and refill the dispenser. Non-standard refill sizes can of course be easily recorded manually in the database.
 
 This pill dispenser uses an original design that we 3D printed to hold the break beam sensors and an airsoft speed loader to track when the pill was dispensed.
