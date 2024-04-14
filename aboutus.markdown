@@ -8,7 +8,7 @@ nav: true
 
 Braden Lamb             |  
 :-------------------------:|:-------------------------:
-![Braden](/images/Braden%20headshot.jpg)   |  A home-educated student in his senior year of highschool, Braden likes distance running and playing soccer.  In his free time, he enjoys woodworking and programming.  He plans to graduate college with a degree in mechanical engineering.
+![Braden](/images/Braden%20headshot.jpg)   |  A home-educated student in his senior year of highschool, Braden likes distance running and playing soccer.  In his free time, he enjoys woodworking and programming.  He plans to study mechanical engineering at the University of Alabama.
 
 Keenan Amerson             |  
 :-------------------------:|:-------------------------:
