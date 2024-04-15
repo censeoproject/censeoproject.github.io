@@ -12,3 +12,5 @@ The roll of bandages is held on an axle with its output being fed through two se
 The entire structure of the device was designed in FreeCAD and 3D printed in multiple parts.
 ## Electronics:
 To track the rotation of the wheels, we use a rotary encoder. We then send the rotation data to our main system using a wireless Bluetooth Low Energy connection from an Arduino RP-2040 microcontroller.
+
+![small Bandage Dispenser Photo](https://github.com/censeoproject/censeoproject.github.io/assets/124106490/20d484ea-0e30-47da-8724-ba054b93b966)
