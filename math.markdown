@@ -14,3 +14,9 @@ To improve consistency and predictability, we use a squeezer to dispense the med
 image: squeezer + sensor
 # Calculating Volume
 We created an equation that calculates the volume of toothpaste dispensed as the squeezer moves. To test the accuracy of this equation, we used a bottle of toothpaste to represent creams and hand measured the distance moved. After plugging in the values for the size of the bottle, we performed 16 tests to see how well the equation matched measured values. In the end, it had an average accuracy of 95.2% and a final accuracy of 98.6%.
+
+Here is a video of how the cream measurer works:
+
+<video width="720" controls>
+  <source type="video/mp4" src="https://github.com/censeoproject/censeoproject.github.io/assets/124106490/0b47052f-bb5c-4d91-ab36-5fad1de1e868">
+</video>
