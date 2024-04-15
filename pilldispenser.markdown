@@ -17,3 +17,15 @@ This device utilizes a gear with pill sized slots to dispense the pills.
 As the astronaut turns the gear, the pills will be pushed out of the pill dispenser.  In order for it to work in low gravity, we are using a spring to push a 3d printed piece on top of the piils.  As the pills exit the device, they trigger a break beam sensor connected to an Arduino Nano which in turn sends a message to the inventory system and updates the quantity of pills accordingly. This can all be done completely wirelessly and without manual input into a database.  This device, like the others has a magnetic switch which keeps the device off while inside the box, and when taken out, turns on.  This is used to save power on the space station.  A refill button makes it incredibly easy to automatically record refills of a standard size. Additionally whenever the number of pills decreases to a set amount, a red warning light turns on allerting the user sto refill their pill device. The astronauts will have packages of a set amount of pills, so when the warning light comes on, they can take the standard refill size of pills and add them to the dispenser. Non-standard refill sizes can of course be easily recorded manually in the database.
 
 ![smallPill dispenser image](https://github.com/censeoproject/censeoproject.github.io/assets/124106490/8c18b5d2-5415-49b8-8aac-49198ed0174c)
+
+
+Here is a demo video of the pill dispenser in action:
+
+<video width="720" controls>
+  <source type="video/mp4" src="https://github.com/censeoproject/censeoproject.github.io/assets/124106490/c7de06aa-4c6b-4d6b-b90a-20f60c40f87d">
+</video>
+
+
+
+
+
