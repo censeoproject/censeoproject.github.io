@@ -13,3 +13,8 @@ Braden Lamb             |
 Keenan Amerson             |  
 :-------------------------:|:-------------------------:
 ![Keenan](/images/Keenan%20Headshot.png)   |  Keenan is also a home-educated student in his senior year of highschool, and he enjoys running track and field and being outdoors.  In his free time he enjoys 3D printing and hanging out with friends.  He plans to study mechanical engineering at LeTourneau University and eventually work for NASA.
+
+You can reach Braden Lamb at braden.lamb15@gmail.com
+
+You can reach Keenan Amerson at censeoproject@gmail.com
+
